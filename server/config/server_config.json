@@ -1,0 +1,19 @@
+{
+    "broker_host": "broker.emqx.io",
+    "broker_port": 1883,
+    "keepalive": 60,
+    "global_model_topic": "tinyfl/server/global_model",
+    "client_update_topic": "tinyfl/client/update",
+    "client_status_topic": "tinyfl/client/status",
+    "control_topic": "tinyfl/server/control",
+    "rounds": 100,
+    "round_timeout": 30.0,
+    "readiness_timeout": 30.0,
+    "aggregation": "fedavg",
+    "server_id": "tinyfl_server",
+    "username": null,
+    "password": null,
+    "plot_path": null,
+    "qos": 1,
+    "min_clients": 1
+}

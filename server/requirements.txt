@@ -1,0 +1,7 @@
+numpy
+paho-mqtt
+matplotlib
+jupyter
+ipython
+jsonschema
+scikit-learn
